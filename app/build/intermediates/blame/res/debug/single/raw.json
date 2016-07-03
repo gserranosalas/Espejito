@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gserranosalas/AndroidStudioProjects/Espejito/app/build/intermediates/res/merged/debug/raw/whistle.mp3",
+        "source": "/home/gserranosalas/AndroidStudioProjects/Espejito/app/src/main/res/raw/whistle.mp3"
+    },
+    {
+        "merged": "/home/gserranosalas/AndroidStudioProjects/Espejito/app/build/intermediates/res/merged/debug/raw/clapping.mp3",
+        "source": "/home/gserranosalas/AndroidStudioProjects/Espejito/app/src/main/res/raw/clapping.mp3"
+    }
+]
